@@ -26,3 +26,7 @@ Overall, this project demonstrates how **Machine Learning** can be used effectiv
 
 *OUTPUT*
 
+<img width="567" height="455" alt="Image" src="https://github.com/user-attachments/assets/3ea03686-9754-485f-8226-3e391576a704" />
+<img width="530" height="455" alt="Image" src="https://github.com/user-attachments/assets/49d24e14-3291-4987-ba66-9c6c9d996f72" />
+<img width="567" height="435" alt="Image" src="https://github.com/user-attachments/assets/e045106e-bcbf-4be8-934b-50bbb8610da6" />
+<img width="568" height="455" alt="Image" src="https://github.com/user-attachments/assets/a5b932ca-710b-4ddf-a40a-90f284747cf9" />
